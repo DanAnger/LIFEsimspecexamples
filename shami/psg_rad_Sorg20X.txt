@@ -1,16 +1,3 @@
-# ------------------------------------------------------------------------
-# Radiance spectrum
-# NASA-GSFC Planetary Spectrum Generator (PSG) (Villanueva et al. 2018, 2022)
-# Synthesized on Fri Nov  1 22:12:52 2024
-# Doppler velocities [km/s] (vobs,vrot+vorb,vwidth,vrfl,vstr): 0.00000,0.00000,0.00000,0.00000,0.00000
-# ------------------------------------------------------------------------
-# Spectra synthesized with the Planetary and Universal Model of Atmospheric Scattering (PUMAS, Villanueva et al. 2018, 2022)
-# Multiple scattering method employing PSGDORT, NMAX:1 / LMAX:2 / gMAX:0.00
-# Radiative transfer took 22.268 seconds
-# ------------------------------------------------------------------------
-# Spectral unit: Wavelength [um]
-# Radiance unit: Spectral radiance [W/sr/m2/um]
-# Wave/freq Total Noise Sorg1X
 3.000000000e+00  2.2734609e-02          inf  2.27346e-02
 3.003000000e+00  2.1467185e-02          inf  2.14672e-02
 3.006003000e+00  1.1954960e-02          inf  1.19550e-02
